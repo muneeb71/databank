@@ -1,0 +1,906 @@
+[
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_bg_launch_screen.xml.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\drawable\\bg_launch_screen.xml"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_news08.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_news08.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_newsethereum.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_newsethereum.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_mazi.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_mazi.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_sharealtsolid.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_sharealtsolid.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_nl.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_nl.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_dashboardecomercial.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_dashboardecomercial.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productlist08.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productlist08.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_dashboardfinance.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_dashboardfinance.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_banyantree.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_banyantree.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_avata02.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_avata02.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_qr.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_qr.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_flagfrance.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_flagfrance.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_news07.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_news07.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_dashboardnews.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_dashboardnews.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_arrowleft.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_arrowleft.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_profile1.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_profile1.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_avata03.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_avata03.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_newsdogecoin.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_newsdogecoin.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productcategory08.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productcategory08.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productlist09.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productlist09.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_km.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_km.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_dashboardwallet.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_dashboardwallet.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_channel1.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_channel1.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_location1.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_location1.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_cssselect_lib_procedure.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_cssselect_lib_procedure.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_coinltc.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_coinltc.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_profile2.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_profile2.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_channel4.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_channel4.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_news06.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_news06.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_angleleftsolid.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_angleleftsolid.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_trip4.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_trip4.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_news09.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_news09.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_mdndata_css_atrules.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_mdndata_css_atrules.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productlist07.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productlist07.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_el.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_el.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_categoryscience.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_categoryscience.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_flagbrazil.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_flagbrazil.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_categoryinterestthings.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_categoryinterestthings.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_logologin.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_logologin.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productview.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productview.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_coinsol.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_coinsol.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_avata04.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_avata04.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_zalo.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_zalo.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_flagindia.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_flagindia.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_news1.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_news1.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_news04.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_news04.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productlist05.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productlist05.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_location2.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_location2.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_categorysport.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_categorysport.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_coinusdt.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_coinusdt.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productgrid02.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productgrid02.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_flagaus.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_flagaus.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_floralfantasy.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_floralfantasy.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_profile4.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_profile4.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_he.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_he.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productlist06.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productlist06.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productgrid08.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productgrid08.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productcategory05.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productcategory05.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productlist12.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productlist12.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productgrid01.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productgrid01.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_logo.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_logo.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_location3.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_location3.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_newstether.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_newstether.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_flaguae.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_flaguae.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_storeprofile.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_storeprofile.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_flagkorea.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_flagkorea.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_csstree_package.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_csstree_package.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productgrid07.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productgrid07.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_aboutus.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_aboutus.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_bookmark.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_bookmark.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_da.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_da.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_branchsamsung.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_branchsamsung.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productcategory04.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productcategory04.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_fa.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_fa.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_marinabaysands.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_marinabaysands.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_id.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_id.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_ja.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_ja.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_coinmatic.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_coinmatic.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_ecommerce.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_ecommerce.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_newsbitcoin.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_newsbitcoin.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_de.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_de.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_categorynews.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_categorynews.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productlist13.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productlist13.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_bank4.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_bank4.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_payment3.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_payment3.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_profile3.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_profile3.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_facebook.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_facebook.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_fr.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_fr.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_my.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_my.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_news05.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_news05.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_commentssolid.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_commentssolid.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_newsmatic.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_newsmatic.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productcategory02.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productcategory02.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_newslitecoin.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_newslitecoin.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productlist01.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productlist01.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_sandsexpo.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_sandsexpo.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_news01.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_news01.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_location6.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_location6.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_vi.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_vi.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_ko.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_ko.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_flagchina.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_flagchina.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_dashboardcrypto.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_dashboardcrypto.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_lo.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_lo.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_mdndata_css_syntaxes.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_mdndata_css_syntaxes.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_location7.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_location7.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_bank3.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_bank3.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productlist02.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productlist02.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productgrid05.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productgrid05.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productcategory01.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productcategory01.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_branchapple.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_branchapple.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_payment2.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_payment2.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_ehsbc.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_ehsbc.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_ku.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_ku.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_csstree_data_patch.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_csstree_data_patch.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_coindoge.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_coindoge.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_sg.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_sg.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_news.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_news.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_bank5.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_bank5.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_profile5.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_profile5.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_vn.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_vn.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_location4.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_location4.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productlist11.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productlist11.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_zh.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_zh.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productcategory03.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productcategory03.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productgrid03.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productgrid03.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_categoryhome.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_categoryhome.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productgrid06.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productgrid06.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_mdndata_css_properties.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_mdndata_css_properties.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productlist04.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productlist04.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_channel3.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_channel3.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_config_api.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_config_api.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_coinbitcon.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_coinbitcon.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_en.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_en.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_categoryentertainment.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_categoryentertainment.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_eproduct.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_eproduct.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\layout_launch_screen.xml.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_ph.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_ph.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productcategory06.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productcategory06.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_avata01.jpeg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_avata01.jpeg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_us.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_us.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_id.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_id.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_channel2.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_channel2.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_news03.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_news03.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_coineth.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_coineth.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_bank6.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_bank6.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_payment1.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_payment1.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_bank2.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_bank2.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_dashboardproject.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_dashboardproject.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_roundlogo.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_roundlogo.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productgrid04.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productgrid04.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productcategory07.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productcategory07.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_categoryhealth.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_categoryhealth.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app_lang_ar.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\app_lang_ar.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_newsmain.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_newsmain.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productlist03.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productlist03.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_bank1.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_bank1.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_notificationicon.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_notificationicon.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_news02.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_news02.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_categoryfood.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_categoryfood.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_productlist10.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_productlist10.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_domserializer_foreignnames.json.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_domserializer_foreignnames.json"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_location5.jpg.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_location5.jpg"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Devs Work\\databank\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Devs Work\\databank\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    }
+]

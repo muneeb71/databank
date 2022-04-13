@@ -1,0 +1,117 @@
+import {
+    CardReport06,
+    CardReport08,
+    Price2Col,
+    SafeAreaView,
+    Text,
+    Icon,
+} from "@components";
+import { BaseColor, BaseStyle, useTheme } from "@config";
+import { FTransactions } from "@data";
+import { useNavigation, useRoute } from "@react-navigation/native";
+import React, { useEffect, useState } from "react";
+import { useTranslation } from "react-i18next";
+import { ScrollView, View, TouchableOpacity, } from "react-native";
+import HeaderHome from "./HeaderHome";
+import styles from "./styles";
+import TitleList from "./TitleList";
+import HeaderCard from "./HeaderCard";
+import Loading from '../Loading';
+
+const Dashboard7 = () => {
+    const { t } = useTranslation();
+    const { colors } = useTheme();
+    const navigation = useNavigation();
+    const route = useRoute();
+    const [loading, setLoading] = useState(false);
+    const item = route?.params?.item ?? {name: "Bitcoin"};
+    const [transactions, setTransactions] = useState(FTransactions);
+
+    useEffect(() => {
+        if(route?.params?.item?.id) {
+            setTransactions(transactions.filter(itemOld => itemOld.id != item.id))
+        }
+    }, [route?.params?.item])
+
+    if(!loading) {
+        return (
+            <SafeAreaView
+                style={[BaseStyle.safeAreaView, { flex: 1 }]}
+                edges={["right", "top", "left"]}
+            >
+                <HeaderHome
+                    onPressRight={() => navigation.navigate("FNotification")}
+                />
+                <ScrollView
+                    contentContainerStyle={styles.container}
+                    showsHorizontalScrollIndicator={false}
+                    showsVerticalScrollIndicator={false}
+                >
+                    <HeaderCard
+                        onPress={() => navigation.navigate("FSendMoney")}
+                    />
+                    {/* <CardReport08
+                        percent={50}
+                        title="Current Goal"
+                        subTitle="Accumulate $29,000"
+                        description="Proin eget tortor risus. Donec sollicitudin molestie malesuada"
+                    /> */}
+                    <Text title3 style={{ marginBottom: 10 }}>
+                    {t("My Wallets")}
+                    </Text>
+
+                    <View style={{ flexDirection: "row" }}>
+                        <View style={{ flex: 1, paddingRight: 7 }}>
+                            <CardReport06
+                                icon="arrow-up"
+                                title="MVDG"
+                                price="0.68"
+                                percent="+8,99%"
+                                onPress={() => navigation.navigate("Dashboard5")}
+                            />
+                        </View>
+                        <View style={{ flex: 1, paddingLeft: 7 }}>
+                            <CardReport06
+                                style={{ backgroundColor: BaseColor.kashmir }}
+                                icon="arrow-up"
+                                title="ETH"
+                                price="0.68"
+                                percent="+8,99%"
+                                onPress={() => navigation.navigate("FCryptol01")}
+                            />
+                        </View>
+                    </View>
+                    <TitleList
+                        title={t("transactions")}
+                        textMore={t("view_all")}
+                        onPress={() => navigation.navigate("FCryptol01")}
+                    />
+                    {transactions.map((item, index) => (
+                        <Price2Col
+                            key={index}
+                            image={item.image}
+                            code={item.code}
+                            name={item.name}
+                            costPrice={item.costPrice}
+                            marketCap={item.marketCap}
+                            percent={item.percent}
+                            price={item.price}
+                            isUp={item.isUp}
+                            onPress={() =>
+                                navigation.navigate("FCryptol02", {
+                                    item: item,
+                                    screen: "CHome"
+                                })
+                            }
+                        />
+                    ))}
+                </ScrollView>
+            </SafeAreaView>
+        );
+    } else 
+    return (
+        <Loading/>
+    );
+};
+
+export default Dashboard7;

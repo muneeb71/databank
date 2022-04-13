@@ -1,0 +1,15 @@
+com/mazi/MainApplication.java
+ com.mazi.MainApplication
+ com.mazi.MainApplication$1
+com/mazi/ReactNativeFlipper.java
+ com.mazi.ReactNativeFlipper
+ com.mazi.ReactNativeFlipper$1
+ com.mazi.ReactNativeFlipper$2
+ com.mazi.ReactNativeFlipper$2$1
+com/mazi/MainActivity.java
+ com.mazi.MainActivity
+ com.mazi.MainActivity$1
+com/mazi/BuildConfig.java
+ com.mazi.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="5" by="lint 4.1.0">
+
+    <issue
+        id="ObsoleteLintCustomCheck"
+        severity="Warning"
+        message="Lint found an issue registry (`androidx.fragment.lint.FragmentIssueRegistry`) which is older than the current API level; these checks may not work correctly.&#xA;&#xA;Recompile the checks against the latest version. Custom check API version is 6 (3.6), current lint API level is 8 (4.1+)"
+        category="Lint"
+        priority="10"
+        summary="Obsolete custom lint check"
+        explanation="Lint can be extended with &quot;custom checks&quot;: additional checks implemented by developers and libraries to for example enforce specific API usages required by a library or a company coding style guideline.&#xA;&#xA;The Lint APIs are not yet stable, so these checks may either cause a performance degradation, or stop working, or provide wrong results.&#xA;&#xA;This warning flags custom lint checks that are found to be using obsolete APIs and will need to be updated to run in the current lint environment.&#xA;&#xA;It may also flag issues found to be using a **newer** version of the API, meaning that you need to use a newer version of lint (or Android Studio or Gradle plugin etc) to work with these checks."
+        includedVariants="debug"
+        excludedVariants="release">
+        <location
+            file="C:\Users\Muneeb Ahmed\.gradle\caches\transforms-2\files-2.1\5e5754defa7ec1b661ffd11a17838c67\fragment-1.2.1\jars\lint.jar"/>
+    </issue>
+
+    <issue
+        id="UnusedAttribute"
+        severity="Warning"
+        message="Attribute `usesCleartextTraffic` is only used in API level 23 and higher (current min is 21)"
+        category="Correctness"
+        priority="6"
+        summary="Attribute unused on older versions"
+        explanation="This check finds attributes set in XML files that were introduced in a version newer than the oldest version targeted by your application (with the `minSdkVersion` attribute).&#xA;&#xA;This is not an error; the application will simply ignore the attribute. However, if the attribute is important to the appearance or functionality of your application, you should consider finding an alternative way to achieve the same result with only available attributes, and then you can optionally create a copy of the layout in a layout-vNN folder which will be used on API NN or higher where you can take advantage of the newer attribute.&#xA;&#xA;Note: This check does not only apply to attributes. For example, some tags can be unused too, such as the new `&lt;tag>` element in layouts introduced in API 21."
+        errorLine1="      android:usesCleartextTraffic=&quot;true&quot;"
+        errorLine2="      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\AndroidManifest.xml"
+            line="14"
+            column="7"/>
+    </issue>
+
+    <issue
+        id="GradleDependency"
+        severity="Warning"
+        message="A newer version of androidx.swiperefreshlayout:swiperefreshlayout than 1.0.0 is available: 1.1.0"
+        category="Correctness"
+        priority="4"
+        summary="Obsolete Gradle Dependency"
+        explanation="This detector looks for usages of libraries where the version you are using is not the current stable release. Using older versions is fine, and there are cases where you deliberately want to stick with an older version. However, you may simply not be aware that a more recent version is available, and that is what this lint check helps find."
+        errorLine1="    implementation &quot;androidx.swiperefreshlayout:swiperefreshlayout:1.0.0&quot;"
+        errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Devs Work\databank\android\app\build.gradle"
+            line="86"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="GradleDependency"
+        severity="Warning"
+        message="A newer version of com.facebook.flipper:flipper than 0.75.1 is available: 0.99.0"
+        category="Correctness"
+        priority="4"
+        summary="Obsolete Gradle Dependency"
+        explanation="This detector looks for usages of libraries where the version you are using is not the current stable release. Using older versions is fine, and there are cases where you deliberately want to stick with an older version. However, you may simply not be aware that a more recent version is available, and that is what this lint check helps find."
+        errorLine1="    debugImplementation(&quot;com.facebook.flipper:flipper:${FLIPPER_VERSION}&quot;) {"
+        errorLine2="    ^"
+        includedVariants="debug"
+        excludedVariants="release">
+        <location
+            file="C:\Devs Work\databank\android\app\build.gradle"
+            line="87"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="GradleDependency"
+        severity="Warning"
+        message="A newer version of com.facebook.flipper:flipper-network-plugin than 0.75.1 is available: 0.99.0"
+        category="Correctness"
+        priority="4"
+        summary="Obsolete Gradle Dependency"
+        explanation="This detector looks for usages of libraries where the version you are using is not the current stable release. Using older versions is fine, and there are cases where you deliberately want to stick with an older version. However, you may simply not be aware that a more recent version is available, and that is what this lint check helps find."
+        errorLine1="    debugImplementation(&quot;com.facebook.flipper:flipper-network-plugin:${FLIPPER_VERSION}&quot;) {"
+        errorLine2="    ^"
+        includedVariants="debug"
+        excludedVariants="release">
+        <location
+            file="C:\Devs Work\databank\android\app\build.gradle"
+            line="90"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="GradleDependency"
+        severity="Warning"
+        message="A newer version of com.facebook.flipper:flipper-fresco-plugin than 0.75.1 is available: 0.99.0"
+        category="Correctness"
+        priority="4"
+        summary="Obsolete Gradle Dependency"
+        explanation="This detector looks for usages of libraries where the version you are using is not the current stable release. Using older versions is fine, and there are cases where you deliberately want to stick with an older version. However, you may simply not be aware that a more recent version is available, and that is what this lint check helps find."
+        errorLine1="    debugImplementation(&quot;com.facebook.flipper:flipper-fresco-plugin:${FLIPPER_VERSION}&quot;) {"
+        errorLine2="    ^"
+        includedVariants="debug"
+        excludedVariants="release">
+        <location
+            file="C:\Devs Work\databank\android\app\build.gradle"
+            line="94"
+            column="5"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.drawable.bg_launch_screen` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true."
+        errorLine1="&lt;layer-list xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
+        errorLine2="^">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\drawable\bg_launch_screen.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.integer.react_native_dev_server_port` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true.">
+        <location
+            file="C:\Devs Work\databank\android\app\build.gradle"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.integer.react_native_inspector_proxy_port` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true.">
+        <location
+            file="C:\Devs Work\databank\android\app\build.gradle"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.color.color_bg_launch_screen` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true."
+        errorLine1="    &lt;color name=&quot;color_bg_launch_screen&quot;>#E5634D&lt;/color>"
+        errorLine2="           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\values\colors.xml"
+            line="3"
+            column="12"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.color.primary_dark` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true."
+        errorLine1="    &lt;color name=&quot;primary_dark&quot;>#101010&lt;/color>"
+        errorLine2="           ~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\values\colors.xml"
+            line="4"
+            column="12"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.color.light` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true."
+        errorLine1="    &lt;color name=&quot;light&quot;>#FFFFFF&lt;/color>"
+        errorLine2="           ~~~~~~~~~~~~">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\values\colors.xml"
+            line="5"
+            column="12"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.mipmap.ic_launcher_round` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true."
+        errorLine1="&lt;adaptive-icon xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
+        errorLine2="^">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml"
+            line="2"
+            column="1"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-hdpi\ic_launcher_round.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-mdpi\ic_launcher_round.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.layout.launch_screen` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true."
+        errorLine1="&lt;LinearLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot; android:gravity=&quot;center&quot;"
+        errorLine2="^">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\layout\launch_screen.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UnusedResources"
+        severity="Warning"
+        message="The resource `R.style.SplashTheme` appears to be unused"
+        category="Performance"
+        priority="3"
+        summary="Unused resources"
+        explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true."
+        errorLine1="    &lt;style name=&quot;SplashTheme&quot; parent=&quot;Theme.AppCompat.Light.NoActionBar&quot;>"
+        errorLine2="           ~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\values\styles.xml"
+            line="9"
+            column="12"/>
+    </issue>
+
+    <issue
+        id="RedundantNamespace"
+        severity="Warning"
+        message="This namespace declaration is redundant"
+        category="Performance"
+        priority="1"
+        summary="Redundant namespace"
+        explanation="In Android XML documents, only specify the namespace on the root/document element. Namespace declarations elsewhere in the document are typically accidental leftovers from copy/pasting XML from other files or documentation."
+        errorLine1="        &lt;shape xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;"
+        errorLine2="               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\drawable\bg_launch_screen.xml"
+            line="4"
+            column="16"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        severity="Warning"
+        message="Launcher icon used as round icon did not have a circular shape"
+        category="Usability:Icons"
+        priority="6"
+        summary="The launcher icon shape should use a distinct silhouette"
+        explanation="According to the Android Design Guide (https://material.io/design/iconography/) your launcher icons should &quot;use a distinct silhouette&quot;, a &quot;three-dimensional, front view, with a slight perspective as if viewed from above, so that users perceive some depth.&quot;&#xA;&#xA;The unique silhouette implies that your launcher icon should not be a filled square.">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-hdpi\ic_launcher_round.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        severity="Warning"
+        message="Launcher icon used as round icon did not have a circular shape"
+        category="Usability:Icons"
+        priority="6"
+        summary="The launcher icon shape should use a distinct silhouette"
+        explanation="According to the Android Design Guide (https://material.io/design/iconography/) your launcher icons should &quot;use a distinct silhouette&quot;, a &quot;three-dimensional, front view, with a slight perspective as if viewed from above, so that users perceive some depth.&quot;&#xA;&#xA;The unique silhouette implies that your launcher icon should not be a filled square.">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-mdpi\ic_launcher_round.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        severity="Warning"
+        message="Launcher icon used as round icon did not have a circular shape"
+        category="Usability:Icons"
+        priority="6"
+        summary="The launcher icon shape should use a distinct silhouette"
+        explanation="According to the Android Design Guide (https://material.io/design/iconography/) your launcher icons should &quot;use a distinct silhouette&quot;, a &quot;three-dimensional, front view, with a slight perspective as if viewed from above, so that users perceive some depth.&quot;&#xA;&#xA;The unique silhouette implies that your launcher icon should not be a filled square.">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        severity="Warning"
+        message="Launcher icon used as round icon did not have a circular shape"
+        category="Usability:Icons"
+        priority="6"
+        summary="The launcher icon shape should use a distinct silhouette"
+        explanation="According to the Android Design Guide (https://material.io/design/iconography/) your launcher icons should &quot;use a distinct silhouette&quot;, a &quot;three-dimensional, front view, with a slight perspective as if viewed from above, so that users perceive some depth.&quot;&#xA;&#xA;The unique silhouette implies that your launcher icon should not be a filled square.">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png"/>
+    </issue>
+
+    <issue
+        id="IconLauncherShape"
+        severity="Warning"
+        message="Launcher icon used as round icon did not have a circular shape"
+        category="Usability:Icons"
+        priority="6"
+        summary="The launcher icon shape should use a distinct silhouette"
+        explanation="According to the Android Design Guide (https://material.io/design/iconography/) your launcher icons should &quot;use a distinct silhouette&quot;, a &quot;three-dimensional, front view, with a slight perspective as if viewed from above, so that users perceive some depth.&quot;&#xA;&#xA;The unique silhouette implies that your launcher icon should not be a filled square.">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png"/>
+    </issue>
+
+    <issue
+        id="IconDipSize"
+        severity="Warning"
+        message="The image `ic_launcher.png` varies significantly in its density-independent (dip) size across the various density versions: mipmap-hdpi\\ic_launcher.png: 267x267 dp (400x400 px), mipmap-mdpi\\ic_launcher.png: 400x400 dp (400x400 px), mipmap-xhdpi\\ic_launcher.png: 200x200 dp (400x400 px), mipmap-xxhdpi\\ic_launcher.png: 133x133 dp (400x400 px), mipmap-xxxhdpi\\ic_launcher.png: 100x100 dp (400x400 px)"
+        category="Usability:Icons"
+        priority="5"
+        summary="Icon density-independent size validation"
+        explanation="Checks the all icons which are provided in multiple densities, all compute to roughly the same density-independent pixel (`dip`) size. This catches errors where images are either placed in the wrong folder, or icons are changed to new sizes but some folders are forgotten.">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxhdpi\ic_launcher.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xhdpi\ic_launcher.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-hdpi\ic_launcher.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-mdpi\ic_launcher.png"/>
+    </issue>
+
+    <issue
+        id="IconDipSize"
+        severity="Warning"
+        message="The image `ic_launcher_background.png` varies significantly in its density-independent (dip) size across the various density versions: mipmap-hdpi\\ic_launcher_background.png: 267x267 dp (400x400 px), mipmap-mdpi\\ic_launcher_background.png: 400x400 dp (400x400 px), mipmap-xhdpi\\ic_launcher_background.png: 200x200 dp (400x400 px), mipmap-xxhdpi\\ic_launcher_background.png: 133x133 dp (400x400 px), mipmap-xxxhdpi\\ic_launcher_background.png: 100x100 dp (400x400 px)"
+        category="Usability:Icons"
+        priority="5"
+        summary="Icon density-independent size validation"
+        explanation="Checks the all icons which are provided in multiple densities, all compute to roughly the same density-independent pixel (`dip`) size. This catches errors where images are either placed in the wrong folder, or icons are changed to new sizes but some folders are forgotten.">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxxhdpi\ic_launcher_background.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxhdpi\ic_launcher_background.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xhdpi\ic_launcher_background.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-hdpi\ic_launcher_background.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-mdpi\ic_launcher_background.png"/>
+    </issue>
+
+    <issue
+        id="IconDipSize"
+        severity="Warning"
+        message="The image `ic_launcher_foreground.png` varies significantly in its density-independent (dip) size across the various density versions: mipmap-hdpi\\ic_launcher_foreground.png: 267x267 dp (400x400 px), mipmap-mdpi\\ic_launcher_foreground.png: 400x400 dp (400x400 px), mipmap-xhdpi\\ic_launcher_foreground.png: 200x200 dp (400x400 px), mipmap-xxhdpi\\ic_launcher_foreground.png: 133x133 dp (400x400 px), mipmap-xxxhdpi\\ic_launcher_foreground.png: 100x100 dp (400x400 px)"
+        category="Usability:Icons"
+        priority="5"
+        summary="Icon density-independent size validation"
+        explanation="Checks the all icons which are provided in multiple densities, all compute to roughly the same density-independent pixel (`dip`) size. This catches errors where images are either placed in the wrong folder, or icons are changed to new sizes but some folders are forgotten.">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png"/>
+    </issue>
+
+    <issue
+        id="IconDipSize"
+        severity="Warning"
+        message="The image `ic_launcher_round.png` varies significantly in its density-independent (dip) size across the various density versions: mipmap-hdpi\\ic_launcher_round.png: 267x267 dp (400x400 px), mipmap-mdpi\\ic_launcher_round.png: 400x400 dp (400x400 px), mipmap-xhdpi\\ic_launcher_round.png: 200x200 dp (400x400 px), mipmap-xxhdpi\\ic_launcher_round.png: 133x133 dp (400x400 px), mipmap-xxxhdpi\\ic_launcher_round.png: 100x100 dp (400x400 px)"
+        category="Usability:Icons"
+        priority="5"
+        summary="Icon density-independent size validation"
+        explanation="Checks the all icons which are provided in multiple densities, all compute to roughly the same density-independent pixel (`dip`) size. This catches errors where images are either placed in the wrong folder, or icons are changed to new sizes but some folders are forgotten.">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-hdpi\ic_launcher_round.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-mdpi\ic_launcher_round.png"/>
+    </issue>
+
+    <issue
+        id="IconDuplicates"
+        severity="Warning"
+        message="The following unrelated icon files have identical contents: ic_launcher.png, ic_launcher_background.png, ic_launcher_foreground.png, ic_launcher_round.png, ic_launcher.png, ic_launcher_background.png, ic_launcher_foreground.png, ic_launcher_round.png, ic_launcher.png, ic_launcher_background.png, ic_launcher_foreground.png, ic_launcher_round.png, ic_launcher.png, ic_launcher_background.png, ic_launcher_foreground.png, ic_launcher_round.png, ic_launcher.png, ic_launcher_background.png, ic_launcher_foreground.png, ic_launcher_round.png"
+        category="Usability:Icons"
+        priority="3"
+        summary="Duplicated icons under different names"
+        explanation="If an icon is repeated under different names, you can consolidate and just use one of the icons and delete the others to make your application smaller. However, duplicated icons usually are not intentional and can sometimes point to icons that were accidentally overwritten or accidentally not updated.">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxxhdpi\ic_launcher_background.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxhdpi\ic_launcher_foreground.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxhdpi\ic_launcher_background.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xxhdpi\ic_launcher.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xhdpi\ic_launcher_round.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xhdpi\ic_launcher_foreground.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xhdpi\ic_launcher_background.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-xhdpi\ic_launcher.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-mdpi\ic_launcher_round.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-mdpi\ic_launcher_foreground.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-mdpi\ic_launcher_background.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-mdpi\ic_launcher.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-hdpi\ic_launcher_round.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-hdpi\ic_launcher_foreground.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-hdpi\ic_launcher_background.png"/>
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\mipmap-hdpi\ic_launcher.png"/>
+    </issue>
+
+    <issue
+        id="ContentDescription"
+        severity="Warning"
+        message="Missing `contentDescription` attribute on image"
+        category="Accessibility"
+        priority="3"
+        summary="Image without `contentDescription`"
+        explanation="Non-textual widgets like ImageViews and ImageButtons should use the `contentDescription` attribute to specify a textual description of the widget such that screen readers and other accessibility tools can adequately describe the user interface.&#xA;&#xA;Note that elements in application screens that are purely decorative and do not provide any content or enable a user action should not have accessibility content descriptions. In this case, just suppress the lint warning with a tools:ignore=&quot;ContentDescription&quot; attribute.&#xA;&#xA;Note that for text fields, you should not set both the `hint` and the `contentDescription` attributes since the hint will never be shown. Just set the `hint`. See https://developer.android.com/guide/topics/ui/accessibility/apps#special-cases"
+        errorLine1="    &lt;ImageView"
+        errorLine2="     ~~~~~~~~~">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\layout\launch_screen.xml"
+            line="6"
+            column="6"/>
+    </issue>
+
+    <issue
+        id="HardcodedText"
+        severity="Warning"
+        message="Hardcoded string &quot;Digital Data-Bank Center&quot;, should use `@string` resource"
+        category="Internationalization"
+        priority="5"
+        summary="Hardcoded text"
+        explanation="Hardcoding text attributes directly in layout files is bad for several reasons:&#xA;&#xA;* When creating configuration variations (for example for landscape or portrait) you have to repeat the actual text (and keep it up to date when making changes)&#xA;&#xA;* The application cannot be translated to other languages by just adding new translations for existing string resources.&#xA;&#xA;There are quickfixes to automatically extract this hardcoded string into a resource lookup."
+        errorLine1="            android:text=&quot;Digital Data-Bank Center&quot;/>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\layout\launch_screen.xml"
+            line="18"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="HardcodedText"
+        severity="Warning"
+        message="Hardcoded string &quot;Autonomous Digitisation&quot;, should use `@string` resource"
+        category="Internationalization"
+        priority="5"
+        summary="Hardcoded text"
+        explanation="Hardcoding text attributes directly in layout files is bad for several reasons:&#xA;&#xA;* When creating configuration variations (for example for landscape or portrait) you have to repeat the actual text (and keep it up to date when making changes)&#xA;&#xA;* The application cannot be translated to other languages by just adding new translations for existing string resources.&#xA;&#xA;There are quickfixes to automatically extract this hardcoded string into a resource lookup."
+        errorLine1="                    android:text=&quot;Autonomous Digitisation&quot;/>"
+        errorLine2="                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Devs Work\databank\android\app\src\main\res\layout\launch_screen.xml"
+            line="25"
+            column="21"/>
+    </issue>
+
+</issues>
